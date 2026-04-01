@@ -22,17 +22,8 @@
 
 <br />
 
-<!-- 02. ACTIVE_REPOSITORIES -->
-### // 02. PROJECTS
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kdevos12&repo=README_GITHUB&theme=dark&border_color=ffffff&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kdevos12&repo=Kdevos12&theme=dark&border_color=ffffff&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-
-<br />
-<br />
-
 <!-- 03. CONTACT SECTION -->
-### // 03. ESTABLISH_UPLINK
+### // 02. ESTABLISH_UPLINK
 
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
@@ -63,6 +54,15 @@
 
 <br />
 <br />
+
+```text
+        .
+       ":"
+     ___:____     |"\/"|
+   ,'        `.    \  /
+   |  O        \___/  |
+ ~^~^~^~^~^~^~^~^~^~^~^~^~
+```
 
 <hr />
 
