@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=100&section=header&text=KDEVOS12&fontSize=80&fontColor=00ffff&theme=tokyonight" width="100%" />
+# K DE VOS
 
 <br />
 
@@ -46,25 +45,36 @@
 <!-- 03. CONTACT SECTION (UPLINK) -->
 <h3 id="-03-uplink">// 03. ESTABLISH_UPLINK</h3>
 
-<a href="https://linktr.ee/Kdevos12">
-  <img src="https://img.shields.io/badge/LINKTREE-00ffff?style=for-the-badge&logo=linktree&logoColor=0D1117" />
-</a>
-<a href="https://substack.com/@Kdevos12">
-  <img src="https://img.shields.io/badge/SUBSTACK-ff00ff?style=for-the-badge&logo=substack&logoColor=white" />
-</a>
-<a href="mailto:contact@kdevos.com">
-  <img src="https://img.shields.io/badge/GMAIL-00ffff?style=for-the-badge&logo=gmail&logoColor=0D1117" />
-</a>
-<a href="https://x.com/Kdevos12">
-  <img src="https://img.shields.io/badge/X-ff00ff?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://calendly.com/Kdevos12">
-  <img src="https://img.shields.io/badge/CALENDLY-00ffff?style=for-the-badge&logo=calendly&logoColor=0D1117" />
-</a>
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://linktr.ee/devosk">
+        <img src="https://img.shields.io/badge/LINKTREE-000000?style=for-the-badge&logo=linktree&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="mailto:kdevospro@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://x.com/KDEVOS_Awwh">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://calendly.com/kdevospro">
+        <img src="https://img.shields.io/badge/CALENDLY-FFFFFF?style=for-the-badge&logo=calendly&logoColor=black" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=ff00ff&height=20&section=footer&theme=tokyonight" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=20&section=footer" width="100%" />
 
 </div>
