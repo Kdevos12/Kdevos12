@@ -16,9 +16,7 @@
 <td width="33.33%" height="150" align="center"> 
 <img src="https://github.com/user-attachments/assets/ee09ab9e-7a0e-471f-baf6-124b74b8f98e" width="100%" alt="Image 1" />
 </td>     
-    <td width="33.33%" height="150" align="center">
-      
-      &nbsp;</td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
     <td width="33.33%" height="150" align="center">&nbsp;</td>
   </tr>
   <tr>
