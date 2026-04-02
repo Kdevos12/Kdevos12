@@ -59,7 +59,7 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://calendly.com/kdevospro">
+      <a href="https://calendly.com/kdevos12">
         <img src="https://img.shields.io/badge/%E2%96%9A_CALENDLY_%E2%96%9A-FFFFFF?style=for-the-badge&logo=calendly&logoColor=black" width="100%" />
       </a>
     </td>
