@@ -11,16 +11,16 @@
 <!-- 01. VISUAL_DATA_GRID (MOSAIC) -->
 ### // 01. GALLERY
 
-<table border="0" cellpadding="0" cellspacing="10" width="100%" style="background-color: #000000;">
+<table border="10" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="33.33%" bgcolor="#FFFFFF"><img src="https://images.unsplash.com/photo-1614728263952-84ea206f25ab?q=80&w=500&auto=format&fit=crop" width="100%" style="display: block; border: 5px solid #000000;" /></td>
-    <td width="33.33%" bgcolor="#000000"><img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=500&auto=format&fit=crop" width="100%" style="display: block; border: 5px solid #FFFFFF;" /></td>
-    <td width="33.33%" bgcolor="#FFFFFF"><img src="https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?q=80&w=500&auto=format&fit=crop" width="100%" style="display: block; border: 5px solid #000000;" /></td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
   </tr>
   <tr>
-    <td width="33.33%" bgcolor="#000000"><img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=500&auto=format&fit=crop" width="100%" style="display: block; border: 5px solid #FFFFFF;" /></td>
-    <td width="33.33%" bgcolor="#FFFFFF"><img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=500&auto=format&fit=crop" width="100%" style="display: block; border: 5px solid #000000;" /></td>
-    <td width="33.33%" bgcolor="#000000"><img src="https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=500&auto=format&fit=crop" width="100%" style="display: block; border: 5px solid #FFFFFF;" /></td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
+    <td width="33.33%" height="150" align="center">&nbsp;</td>
   </tr>
 </table>
 
@@ -77,6 +77,6 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=2" width="100%" />
+<hr />
 
 </div>
